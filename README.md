@@ -1,54 +1,84 @@
-# Getting Started with Create React App
+<br/>
+<div align="center">
+  <a href="https://github.com/admiral41/suvedi-frontend">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Suvedi Frontend Project</h3>
+  <p align="center">
+    A comprehensive guide to set up and run the Suvedi Frontend and Backend servers.
+    <br/>
+    <br/>
+    <a href="https://github.com/admiral41/suvedi-frontend/wiki"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/admiral41/suvedi-frontend">View Demo</a>
+    ·
+    <a href="https://github.com/admiral41/suvedi-frontend/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+    ·
+    <a href="https://github.com/admiral41/suvedi-frontend/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
+  </p>
+</div>
+
+![Contributors](https://img.shields.io/github/contributors/admiral41/suvedi-frontend?color=dark-green)
+![Issues](https://img.shields.io/github/issues/admiral41/suvedi-frontend)
+![License](https://img.shields.io/github/license/admiral41/suvedi-frontend)
+
+## Table of Contents
+
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+
+## About The Project
+
+![Screenshot](images/demo.gif)
 
 Welcome to the Suvedi Frontend project! This guide will help you set up and run both the frontend and backend servers.
 
-## Frontend Setup
+### Built With
 
-### Step 1: Clone this Project
+This project was built with the following technologies:
 
-```bash
-git clone https://github.com/admiral41/suvedi-frontend.git
+- [React](https://reactjs.org/)
+- [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
 
-### Step 2: Install Dependencies
-Navigate to the project directory and install the required dependencies:
+## Getting Started
 
-```bash
-npm install
+To get a local copy up and running follow these simple steps.
 
-### Step 3: Start the Frontend Server
-Start the development server:
+### Prerequisites
 
-```bash
-npm start
+Ensure you have Node.js and npm installed on your machine.
 
-## Backend Setup
-The backend server is located inside the backend directory. Follow the steps below to set it up.
+### Installation
 
-### Step 1: Navigate to the Backend Directory
-```bash
-cd backend
+#### Frontend Setup
 
-### Step 2: Install Dependencies
-```bash
-npm install
+1. **Clone the repository:**
 
-### Step 3: Configure Environment Variables
-Create a .env file in the backend directory and add the following information:
+   ```bash
+   git clone https://github.com/admiral41/suvedi-frontend.git
+   
+2. **Install dependencie:**
 
-```bash
-PORT=your_port_number
-MONGODB_URL=your_mongodb_url
+   ```bash
+   npm install
+   
+3. **Start the frontend server:**
 
-### Step 4: Start the Backend Server
-Start the backend server:
-
-```bash
-npm start
+   ```bash
+   npm start
 
 
-Additional Information
- 1.Ensure you have Node.js and npm installed on your machine.
- 2.The default port for the frontend server is 3000 and for the backend server is 5000.
-Feel free to contribute to this project by creating issues or submitting pull requests.
+
 
 
