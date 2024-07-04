@@ -74,7 +74,7 @@ Ensure you have Node.js and npm installed on your machine.
 #### Backend Setup
 The backend server is located inside the backend directory. Follow the steps below to set it up.
 
-1. **Clone the repository:**
+1. **Navigate to the backend directory:**
    
    ```bash
    cd backend
