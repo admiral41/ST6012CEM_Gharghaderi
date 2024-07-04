@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/admiral41/suvedi-frontend">
-    <img src="src/assets/logo/gharghaderi.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/logo/gharghaderi.png" alt="Logo" width="120" height="80">
   </a>
   <h3 align="center">GharGhaderi</h3>
   <p align="center">
